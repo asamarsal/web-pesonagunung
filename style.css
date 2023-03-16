@@ -1,0 +1,68 @@
+/* logo */
+.logo{
+	width: 0%;
+}
+
+
+.section{
+	padding: 10px;
+background: url("./image/header2.jpg") 100% 100%;
+background-size: 100%;
+height: 170px;
+}
+
+.cari{
+	background: #92acb221;
+}
+
+.galery{
+	padding:60px;
+}
+
+.profile{
+	background: #92acb221 !important;
+}
+
+.judul{
+	color: #3498db;
+}
+
+.footer{
+	background: #333;
+	color: #fff;
+}
+
+.headerperalatan{
+	margin-top: 30px;
+	text-align: center;
+}
+
+.readmore{
+	padding:10px;
+}
+
+.footer h5{
+	border-bottom: 3px solid #fff;
+	padding-bottom: 10px;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+.konten {
+  width: 100%;
+  background: #92acb221;
+}
+.artikel {
+	width: 700px;
+	margin-left: 160px;
+	margin-bottom: auto;
+	text-align: justify;
+}
+.sidebar{
+	float: right;
+	margin-right: 200px;
+}
+.sidebar ul li {
+	line-height: 40px;
+	border-bottom: 1px;
+}
